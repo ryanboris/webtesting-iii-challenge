@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Display/> gate is initially open 1`] = `
+<div
+  class="led green-led"
+  data-testid="closed-div"
+>
+  Open
+</div>
+`;
+
+exports[`<Display/> gate is initially unlocked 1`] = `
+<div
+  class="led green-led"
+  data-testid="unlocked-div"
+>
+  Unlocked
+</div>
+`;
